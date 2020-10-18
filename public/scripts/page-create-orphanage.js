@@ -95,3 +95,7 @@ function validade(event){
         alert('Selecione um local no mapa')
     }
 }
+
+function onSubmit(token) {
+    document.getElementById("demo-form").submit();
+  }

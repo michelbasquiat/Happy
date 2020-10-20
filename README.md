@@ -1,4 +1,4 @@
-![alt Happy NLW #3](https://github.com/michelbasquiat/Happy/blob/main/images/home.jpg?raw=true)
+![alt Happy NLW #3](https://github.com/michelbasquiat/Happy/blob/main/public/images/home.jpg?raw=true)
 
 
 Hi.

@@ -8,12 +8,10 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/michelbasquiat/Happy">
 
-  	
   <a href="https://www.twitter.com/michelbasquiat/">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmichelbasquiat%2FHappy">
   </a>
-	
-  
+
   <a href="https://github.com/michelbasquiat/Happy/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/michelbasquiat/Happy">
   </a>
@@ -25,33 +23,53 @@
 </p>
 
 ## 💻 Sobre o Projeto
+
 <p align="center">Toda criança precisa de atenção e carinho, principalmente crianças que não tem a presença dos pais. Visando sanar essa carência afetiva, várias casa de acolhimento social possuem programas de visitas, nas que normalmente não possuem ampla divulgação. O Happy é um aplicaivo com o intuíto de unir visitantes e casas de acolhimento social melhorando a cominucação entre ambas as partes.</p>
 
-Tabela de conteúdos
+## Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre-o-projeto)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Demonstração do Aplicativo](#demonstracao-do-aplicativo)
+   * [Sobre](#sobre-o-projeto)
+   * [Tabela de Conteúdos](#tabela-de-conteúdos)
+   * [Demonstração do Aplicativo](#demonstração-do-aplicativo)
    * [Layout](#Layout)
       * [Web](#Web)
       * [Mobile](#Mobile)
+   * [Como executar o projeto](#como-executar-o-projeto)
+   * [Tecnologias](#tecnologias)
+   * [Licença](#licença)
    * [Autor](#autor)
 <!--te-->
 
 ## ⚙️ Demonstração do aplicativo
+
 https://happy-cwb.herokuapp.com/
 
 ## 🎨 Layout
 ### Web
+
 🚧 Em construção... 🚧
+
 ### Mobile
+
 🚧 Em construção... 🚧
 
+## 🚀 Como executar o projeto
 
+🚧 Em construção... 🚧
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT.
 
 ## Autor
----
+
 Feito por Michel Martins. Contato:
 
 [![Twitter Badge](https://img.shields.io/badge/-@michelbasquiat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/michelbasquiat)](https://twitter.com/michelbasquiat) [![Linkedin Badge](https://img.shields.io/badge/-Michel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martins-michel-ye/)](https://www.linkedin.com/in/martins-michel-ye//) 

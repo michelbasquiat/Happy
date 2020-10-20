@@ -29,15 +29,15 @@
 ## Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#sobre-o-projeto)
+   * [Sobre](#-sobre-o-projeto)
    * [Tabela de Conteúdos](#tabela-de-conteúdos)
-   * [Demonstração do Aplicativo](#demonstração-do-aplicativo)
-   * [Layout](#Layout)
-      * [Web](#Web)
-      * [Mobile](#Mobile)
-   * [Como executar o projeto](#como-executar-o-projeto)
-   * [Tecnologias](#tecnologias)
-   * [Licença](#licença)
+   * [Demonstração do Aplicativo](#%EF%B8%8F-demonstração-do-aplicativo)
+   * [Layout](#-layout)
+      * [Web](#web)
+      * [Mobile](#mobile)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+   * [Tecnologias](#-tecnologias)
+   * [Licença](#-licença)
    * [Autor](#autor)
 <!--te-->
 

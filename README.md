@@ -27,7 +27,6 @@
 <p align="center">Toda criança precisa de atenção e carinho, principalmente crianças que não tem a presença dos pais. Visando sanar essa carência afetiva, várias casa de acolhimento social possuem programas de visitas, nas que normalmente não possuem ampla divulgação. O Happy é um aplicaivo com o intuíto de unir visitantes e casas de acolhimento social melhorando a cominucação entre ambas as partes.</p>
 
 ## Tabela de conteúdos
-=================
 <!--ts-->
    * [Sobre](#-sobre-o-projeto)
    * [Tabela de Conteúdos](#tabela-de-conteúdos)

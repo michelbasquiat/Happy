@@ -59,8 +59,6 @@ https://happy-cwb.herokuapp.com/
 #### Página de registro
 ![Alt Text](https://media.giphy.com/media/6GYzqKK5odOLEd2y3e/giphy.gif)
 
-🚧 Em construção... 🚧
-
 ### Mobile
 
 🚧 Em construção... 🚧

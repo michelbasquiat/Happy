@@ -47,6 +47,9 @@ https://happy-cwb.herokuapp.com/
 ## 🎨 Layout
 ### Web
 
+#### Landing Page
+![Alt Text](https://media.giphy.com/media/5omXkBNgZMsxYBkAu8/giphy.gif)
+
 🚧 Em construção... 🚧
 
 ### Mobile

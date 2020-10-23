@@ -51,7 +51,7 @@ https://happy-cwb.herokuapp.com/
 ![Landing Page](https://media.giphy.com/media/5omXkBNgZMsxYBkAu8/giphy.gif)
 
 #### Mapa das casas de acolhimento social
-![Mapa](https://media.giphy.com/media/ktdhkVKEpFM4F9UKHU/giphy.gif)
+![Mapa](https://imgur.com/a/4H894wv.jpg)
 
 #### Pagina de informações
 ![Casa](https://media.giphy.com/media/A48UE4gYk29MHz1uTX/giphy.gif)

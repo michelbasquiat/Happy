@@ -50,6 +50,15 @@ https://happy-cwb.herokuapp.com/
 #### Landing Page
 ![Alt Text](https://media.giphy.com/media/5omXkBNgZMsxYBkAu8/giphy.gif)
 
+#### Mapa das casas de acolhimento registradas
+![Alt Text](https://media.giphy.com/media/3CmcD4xWsvdSHbE9nP/giphy.gif)
+
+#### Pagina de informações
+![Alt Text](https://media.giphy.com/media/A48UE4gYk29MHz1uTX/giphy.gif)
+
+#### Página de registro
+![Alt Text](https://media.giphy.com/media/6GYzqKK5odOLEd2y3e/giphy.gif)
+
 🚧 Em construção... 🚧
 
 ### Mobile

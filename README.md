@@ -54,7 +54,7 @@ https://happy-cwb.herokuapp.com/
 ![Mapa](https://media.giphy.com/media/m9IF28kLtDxhK3K9gL/giphy.gif)
 
 #### Pagina de informações
-![Casa](https://media.giphy.com/media/GK0MNB8f2AGNe4chy5/giphy.gif)
+![Casa](https://media.giphy.com/media/6GYzqKK5odOLEd2y3e/giphy.gif)
 
 #### Página de registro
 ![Create](https://media.giphy.com/media/6GYzqKK5odOLEd2y3e/giphy.gif)
